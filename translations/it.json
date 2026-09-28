@@ -1,0 +1,13 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Prezzi Medi Carburanti",
+        "description": "Aggiunge i sensori del prezzo medio nazionale giornaliero di benzina, gasolio, GPL e metano, letti da mappacarburanti.it (dati ufficiali MIMIT, licenza CC0). Nessuna configurazione richiesta."
+      }
+    },
+    "abort": {
+      "already_configured": "Integrazione già configurata."
+    }
+  }
+}

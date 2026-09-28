@@ -1,0 +1,13 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Average Fuel Prices",
+        "description": "Adds sensors for the Italian national daily average price of petrol, diesel, LPG and methane, from mappacarburanti.it (official MIMIT data, CC0 license). No configuration needed."
+      }
+    },
+    "abort": {
+      "already_configured": "Integration already configured."
+    }
+  }
+}
